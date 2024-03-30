@@ -4,7 +4,9 @@
 
 Welcome to our GitHub repository where we'll dive into the exciting world of predicting Bitcoin prices using Prophet! Whether you're a novice or an expert, we'll make sure you grasp the concepts and have fun along the way.
 
-![Texte alternatif](https://i.ibb.co/VQ2ZvkS/Miniature-vid-o-cha-ne-Youtube-cr-ation-peinture-live-2.png)
+![Prophet predict crypto](https://i.ibb.co/VQ2ZvkS/Miniature-vid-o-cha-ne-Youtube-cr-ation-peinture-live-2.png)
+
+![Prediuction bitcoin crytpo 2024](https://i.ibb.co/Sfx3v3Q/Capture-d-cran-2024-03-30-11-45-46.png)
 
 ## What to Expect:
 
