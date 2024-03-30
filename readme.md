@@ -36,5 +36,3 @@ Welcome to our GitHub repository where we'll dive into the exciting world of pre
 4. **Subscribe**: Don't forget to subscribe to our channel to stay updated on the latest developments and projects in the world of cryptocurrency and data engineering!
 
 Join us on this exciting journey as we unravel the mysteries of predicting Bitcoin prices using Prophet. Let's embark on this adventure together! 🌟💻
-
-_Translated with DeepL.com (free version)_
